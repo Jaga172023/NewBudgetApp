@@ -1,0 +1,2 @@
+- aggiungi la possibilità di cambiare i prezzi in base ai valori delle currency
+- aggiungi la possibilità di modificare le spese

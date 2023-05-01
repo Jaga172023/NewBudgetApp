@@ -1,0 +1,35 @@
+.btnDelete {
+    background-color: transparent;
+    border-radius: 100%;
+    border: none;
+    transition: 0.3s;
+}
+
+.btnDelete:hover {
+    color: rgb(206, 77, 77);
+    transition: 0.3s;
+}
+
+.btnModify {
+    margin-left: 10px;
+    background-color: transparent;
+    border-radius: 100%;
+    border: none;
+    transition: 0.3s;
+}
+
+.btnModify:hover {
+    color: rgb(67, 20, 194);
+    transition: 0.3s;
+}
+
+.badge {
+    padding: 8px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.form-control.invalid input {
+    border: 1px solid red;
+    background-color: rgb(233, 149, 149);
+}
